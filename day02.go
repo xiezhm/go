@@ -21,5 +21,6 @@ func main()  {
 	for m:=121;m<=123;m++{
 		a = 64986/float64(m)
 		fmt.Print(a,"\n")
+		fmt.Print(a,"heheda")
 	}
 }
